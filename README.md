@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreipetrut99
 - 👀 I’m interested in Algorithms, Machine Learning, Software Development.
-- 🌱 I’m currently learning ML Algorithms.
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on any programming projects.
 - 📫 How to reach me: mail me andreipetrut@outlook.com 
 
